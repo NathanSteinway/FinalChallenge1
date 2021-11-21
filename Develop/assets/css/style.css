@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/* Body BGC */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Header Elements */
 
 .header {
     padding: 20px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/* Background Image */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Page Formatting for Main Content */
 
 .float-left {
     float: left;
@@ -75,11 +83,13 @@ p {
     margin-left: 20px;
 }
 
+/* Elements for "Benefits" Portion of Page on the Right */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
-    float: right;
+    float:right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -116,6 +126,8 @@ p {
     text-align: center;
 }
 
+/* Images for "Benefits" Portion of Page on the Right */
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,6 +145,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Elements for SEO/ORM/SMM portions of Page on left side */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -161,6 +175,8 @@ p {
     color: #ffffff;
 }
 
+/* Images for SEO/ORM/SMM portions of Page on left side */
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,6 +188,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/* Headings for SEO/ORM/SMM portions of Page on left side */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -187,6 +205,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* footer elements */
 
 .footer {
     padding: 30px;
