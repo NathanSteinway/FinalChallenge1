@@ -65,7 +65,7 @@ p {
     background-position: center;
 }
 
-/* Page Formatting for Main Content */
+/* Used for positioning Main Content Elements*/
 
 .float-left {
     float: left;
@@ -77,13 +77,15 @@ p {
     margin-left: 25px;
 }
 
+/* Makes the SEO/ORM/SMM class formatting uniform */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Elements for "Benefits" Portion of Page on the Right */
+/* Creates and ties together the "Benefits" section */
 
 .benefits {
     margin-right: 20px;
@@ -146,7 +148,7 @@ p {
     max-width: 150px;
 }
 
-/* Elements for SEO/ORM/SMM portions of Page on left side */
+/* Creates classes that anchor additional CSS and act as references for header links */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -206,7 +208,7 @@ p {
     font-size: 36px;
 }
 
-/* footer elements */
+/* Creates, consolidates, and centers footer */
 
 .footer {
     padding: 30px;
