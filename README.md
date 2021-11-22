@@ -26,5 +26,6 @@ I did so by:
 
 SCREENSHOTS OF WEBSITE
 
-    yahyeet
+    <!-- Top of Page -->
+    <img src="Develop\assets\images\chrome_r9SzpvPIfO.jpg" alt="Top of Page"/>
     
