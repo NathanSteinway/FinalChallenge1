@@ -26,6 +26,8 @@ I did so by:
 
 SCREENSHOTS OF WEBSITE
 
-    <!-- Top of Page -->
-    <img src="Develop\assets\images\chrome_r9SzpvPIfO.jpg" alt="Top of Page"/>
-    
+![chrome_r9SzpvPIfO](https://user-images.githubusercontent.com/93408466/142787931-7e16d336-a29d-4016-9bda-69e6b675480d.jpg)
+<img width="1280" alt="chrome_oBsPtygZ58" src="https://user-images.githubusercontent.com/93408466/142787980-b4106a0b-71a2-46d1-8b85-fae6a99fe092.png">
+<img width="1280" alt="chrome_cY30jBmeUH" src="https://user-images.githubusercontent.com/93408466/142787987-728a6181-289a-4bbe-950f-afdedbd5fe7d.png">
+
+
